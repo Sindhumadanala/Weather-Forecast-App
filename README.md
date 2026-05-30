@@ -3,8 +3,8 @@
 A real-time weather forecasting application that provides live weather updates with a clean, responsive, and user-friendly interface. Built with HTML and CSS to deliver a seamless weather browsing experience.
 
 
-<p align="center">[➡️ LIVE DEMO](https://sindhumadanala.github.io/Weather-Forecast-live-App/)
-</p>
+<a href="https://sindhumadanala.github.io/Weather-Forecast-live-App/">➡️ LIVE DEMO</a>
+
 
 ## 📸 Screenshots
 
