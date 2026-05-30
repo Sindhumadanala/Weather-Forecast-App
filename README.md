@@ -6,30 +6,8 @@ A real-time weather forecasting application that provides live weather updates w
 <a href="https://sindhumadanala.github.io/Weather-Forecast-live-App/">➡️ LIVE DEMO</a>
 
 
-## 📸 Screenshots
-
-### Desktop View
-![Weather App Desktop View](https://via.placeholder.com/800x600?text=Desktop+Weather+App+View)
-
-*Clean and intuitive desktop interface showing current weather and forecast*
-
-### Mobile View
-![Weather App Mobile View](https://via.placeholder.com/400x700?text=Mobile+Weather+App+View)
-
-*Fully responsive mobile layout optimized for all devices*
-
-### Current Weather Section
-![Current Weather Display](https://via.placeholder.com/800x400?text=Current+Weather+Section)
-
-*Displays temperature, weather conditions, humidity, and wind speed*
-
-### Weather Forecast Cards
-![Forecast Cards](https://via.placeholder.com/800x400?text=Forecast+Cards+Section)
-
-*Shows upcoming weather predictions for the next 5-7 days*
-
----
-
+----> DESKTOP VIEW 
+<img width="1890" height="920" alt="Image" src="https://github.com/user-attachments/assets/fe2c4be2-671a-4908-99e5-b86b896a90fb" />
 ## Overview
 
 The Weather Forecast Live App is a modern web application designed to help users stay informed about current weather conditions and forecasts. With its intuitive design and live data updates, users can quickly check weather information for their location without any complications.
@@ -38,12 +16,12 @@ This application demonstrates best practices in front-end development with seman
 
 ## Features
 
-- **Live Weather Updates** - Get real-time weather information updated instantly as conditions change
-- **Responsive Design** - Seamlessly adapts to any screen size (desktop, tablet, mobile)
-- **Clean User Interface** - Intuitive and easy-to-navigate weather display
-- **Location-Based Weather** - View weather data for your current location or search for other locations
-- **Weather Forecast** - Check upcoming weather predictions and plan accordingly
-- **Fast Performance** - Lightweight application that loads quickly and runs smoothly
+- **Live Weather Updates**
+- **Responsive Design**
+- **Clean User Interface**
+- **Location-Based Weather** 
+- **Weather Forecast**
+- **Fast Performance**
 
 ## Technologies Used
 
